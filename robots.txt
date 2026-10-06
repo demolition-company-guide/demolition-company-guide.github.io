@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demolition-company-guide.github.io/sitemap.xml
